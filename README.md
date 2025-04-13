@@ -1,4 +1,4 @@
-# GitOps Configserver Examples
+# GitOps ConfigServer Examples
 
 Examples repo with results of configuration regeneration.
 
