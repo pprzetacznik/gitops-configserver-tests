@@ -2,7 +2,7 @@
   - var1: aaa1.default
   - var2: bbb1.default
   - var2: ccc1.default
-  - lll: |
+  - lll:
     - abc: 1
       def: 2
       ghi: 3
