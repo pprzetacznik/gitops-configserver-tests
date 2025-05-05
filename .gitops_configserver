@@ -21,6 +21,6 @@
         "tenant1/config1-ubuntu-22.04-10-python3.7-prod.yaml",
         "config1-prod.yaml"
     ],
-    "gitops_configserver": "1.4.0",
-    "timestamp": "2025-05-04T16:04:10.712263+00:00"
+    "gitops_configserver": "1.5.0",
+    "timestamp": "2025-05-05T22:21:54.150743+00:00"
 }
